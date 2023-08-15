@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/parashthakuri/MultivandorApp.git"
+    "url": "git+https://github.com/bhattarainabin64/MultivandorApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/parashthakuri/MultivandorApp/issues"
+    "url": "https://github.com/bhattarainabin64/MultivandorApp/issues"
   },
-  "homepage": "https://github.com/parashthakuri/MultivandorApp#readme",
+  "homepage": "https://github.com/bhattarainabin64/MultivandorApp#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.0",
