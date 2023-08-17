@@ -9,7 +9,7 @@ const Head = () => {
             <i className='fa fa-phone'></i>
             <label>+977 9861922169</label>
             <i className='fa fa-envelope'></i>
-            <label>najikkopasal@gmail.com</label>
+            <label>cyclonefashion@gmail.com</label>
           </div>
           <div className='right row RText'>
             <label>Theme FAQ"s</label>
